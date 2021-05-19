@@ -1,0 +1,53 @@
+AlertRuleTemplateName: 
+DisplayName: 69b7723c-2889-469f-8b55-a2d355ed9c87
+Description: 
+Enabled: false
+LastModifiedUtc: 2021-05-14T18:44:22.1850000Z
+Query: '"let dt_lookBack = 1h;"'
+QueryFrequency:
+  Ticks: 36000000000
+  Days: 0
+  Hours: 1
+  Milliseconds: 0
+  Minutes: 0
+  Seconds: 0
+  TotalDays: 0.041666666666666664
+  TotalHours: 1
+  TotalMilliseconds: 3600000
+  TotalMinutes: 60
+  TotalSeconds: 3600
+QueryPeriod:
+  Ticks: 12096000000000
+  Days: 14
+  Hours: 0
+  Milliseconds: 0
+  Minutes: 0
+  Seconds: 0
+  TotalDays: 14
+  TotalHours: 336
+  TotalMilliseconds: 1209600000
+  TotalMinutes: 20160
+  TotalSeconds: 1209600
+Severity: Medium
+SuppressionDuration:
+  Ticks: 36000000000
+  Days: 0
+  Hours: 1
+  Milliseconds: 0
+  Minutes: 0
+  Seconds: 0
+  TotalDays: 0.041666666666666664
+  TotalHours: 1
+  TotalMilliseconds: 3600000
+  TotalMinutes: 60
+  TotalSeconds: 3600
+SuppressionEnabled: false
+TriggerOperator: 0
+TriggerThreshold: 0
+Tactics: 
+Id: /subscriptions/1ef0bead-010f-49ae-bcf3-142bbc8572cd/resourceGroups/logmanagement-rg/providers/Microsoft.OperationalInsights/workspaces/cd-azuresentinelworkspace/providers/Microsoft.SecurityInsights/alertRules/4ceab80f-6144-43d6-9484-d33863f39c9a
+Name: 4ceab80f-6144-43d6-9484-d33863f39c9a
+Type: Microsoft.SecurityInsights/alertRules
+Etag: '"9003d873-0000-0100-0000-609ec5060000"'
+Kind: Scheduled
+
